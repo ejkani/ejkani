@@ -1,4 +1,4 @@
-![](Images/top-bar-w-name.png)
+![](Images/top-bar-narrow.png)
 
 # Resume
 
@@ -18,7 +18,7 @@
 
 * `January 2018 -> October 2018` \
   **Signicat - Senior Software Developer** \
-  Scaling a Startup from proof-of-concept to a easy maintainable enterprise solution.
+  Part of the team creating the Self-Service solution and move it to continuous integration and deployment (CI/CD).
 
 * `April 2009 -> October 2018` \
   **Webstep - Senior Consultant** \
@@ -54,12 +54,12 @@
 
 * `May 2010 -> May 2013` \
   **St. Olavs Hospital - Senior Consultant** \
-  Creating of a PWA (Progressive Web Application) for registration of cancer patients level of pain and a dynamic questionnaire that gave Doctors a suggestion of medications for the patient. Used HTML5, SVG and JavaScript for frontend and a C# and SqlServer backend.
+  Creating of a PWA (Progressive Web Application) to use as a tool for Doctor to patient interaction.
 
 * `April 2004 -> March 2009` \
   **Basware - Software System Architect** \
-  Development and maintenance of accounting back-office system, mainly in Visual Basic and C#.
+  Developing a Tender system for use within EU.
 
 * `May 2001 -> April 2004` \
   **Merit Consulting Group / Intentia - Business Intelligence Consultant** \
-  Development and maintenance of accounting back-office system, mainly in Visual Basic and C#.
+  Working as BI Consultant and implementing Data Warehouse solutions for customers.
