@@ -1,10 +1,12 @@
-# Terje Kvannli
+![](Images/top-bar-w-name.png)
 
----
-
-Master of Science, NTNU
+# Resume
 
 ## Work Experience
+
+* `August 2020 -> now` \
+  **Equinor - Independent Consultant** \
+  Platform- and Cloud Architect to bring forward Equinors ambition to participate in the global energy market.
 
 * `August 2020 -> now` \
   **SoftSense - Independent Consultant** \
